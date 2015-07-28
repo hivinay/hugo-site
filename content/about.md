@@ -9,4 +9,4 @@ I am interested in this interdisciplinary approach to focus on my favorite appli
 
 ## Where am I?
 I am in Ann Arbor, MI, and am currently interning at [FarmLogs](http://farmlogs.com), a wonderful startup focused on solving problems in agriculture through precision planting and improved metrics.
-![FarmLogs](../farmlogs_square_logo.png)
+![FarmLogs](../farmlogs_rectangle_logo.jpg)

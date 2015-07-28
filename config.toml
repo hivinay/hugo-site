@@ -9,6 +9,7 @@ theme = "hyde-x"
 [params]
 	theme = "theme-base-09"
 	tagline = "I'm especially interested in science, technology, psychology, philosophy, and linguistics."
+	highlight = "solarized_dark"
 	github = "http://github.com/hivinay"
 	linkedin = "http://linkedin.com/in/vinayahiremath"
 	facebook = "http://facebook.com/vinay427"
