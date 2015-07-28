@@ -1,0 +1,4 @@
+baseurl = "https://hivinay.com"
+languageCode = "en-us"
+title = "Vinay Hiremath"
+theme = "hyde-x"
