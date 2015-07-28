@@ -1,4 +1,4 @@
-baseurl = "https://hivinay.com"
+baseurl = "http://hivinay.com"
 languageCode = "en-us"
 title = "Vinay Hiremath"
 theme = "hyde-x"
