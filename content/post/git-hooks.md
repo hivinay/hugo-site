@@ -1,7 +1,7 @@
 +++
-categories = []
+categories = ["tech"]
 date = "2015-07-28T14:49:41-04:00"
-description = ""
+description = "A simple hook that syncs your generated site to S3 on a Git push."
 keywords = []
 title = "Git hook to deploy static sites to S3"
 
